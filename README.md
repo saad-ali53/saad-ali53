@@ -1,5 +1,10 @@
-##👋 Hi, I'm Saad Ali!
+👋 Hi, I'm Saad Ali!
+
+--
+
 🎓 Cyber Security Student @ PAF-IAST, Haripur (Pakistan)
+
+--
 
 🎓 Cybersecurity Student | 💻 C++  | 📚 Lifelong Learner
 
