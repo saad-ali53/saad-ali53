@@ -2,7 +2,7 @@
 
 🎓 Cyber Security Student @ PAF-IAST, Haripur (Pakistan)
 
-## 🎓 Cybersecurity Student | 💻 C++  | 📚 Lifelong Learner
+## 🔐 Cybersecurity Enthusiast | 💻 C++  | 📚 Lifelong Learner
 
 ---
 
