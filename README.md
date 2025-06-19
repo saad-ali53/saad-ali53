@@ -31,12 +31,6 @@
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/saad-ali-963580356)
+- 💼 linkedin: [Saad Ali](www.linkedin.com/in/saad-ali-963580356)
 - 📧 Email: saadgee1212@gmail.com
 
-**saad-ali53/saad-ali53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
