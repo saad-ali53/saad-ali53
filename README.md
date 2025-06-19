@@ -13,8 +13,10 @@
 
 ---
 
-## 📈 GitHub Stats
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?saad-ali53&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
+
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad-ali53&show_icons=true&theme=github_dark)
+
 
 ---
 
