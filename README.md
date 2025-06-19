@@ -14,7 +14,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadali123&show_icons=true&theme=github_dark)
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?saad-ali53&show_icons=true&theme=github_dark)
 
 ---
 
