@@ -1,15 +1,13 @@
-## Hi there 👋
+##👋 Hi, I'm Saad Ali!
+🎓 Cyber Security Student @ PAF-IAST, Haripur (Pakistan)
 
-##<!--# 👋 Hi there, I'm Saad Ali!
-
-🎓 Cybersecurity Student | 💻 C++ & Python Developer | 📚 Lifelong Learner
+🎓 Cybersecurity Student | 💻 C++  | 📚 Lifelong Learner
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 - 🔐 Passionate about ethical hacking and information security
-- 💡 Love building practical projects with C++, Python, and Bash
-- 🌱 Currently learning: Reverse Engineering and Web Security
+- 💡 Love building practical projects with C++
 - 🛠️ Tools: Wireshark, Metasploit, Git, Linux
 
 ---
@@ -30,20 +28,12 @@
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/saadali123)
-- 📝 [Portfolio](https://your-portfolio.com)
-- 📧 Email: saad@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/saad-ali-963580356)
+- 📧 Email: saadgee1212@gmail.com
 
 **saad-ali53/saad-ali53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
